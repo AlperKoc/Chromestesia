@@ -1,0 +1,85 @@
+{
+    "track_id": "Deep Southern Ballad",
+    "LOCATORS": {
+        "locator_1": {
+            "title": "INTRO",
+            "index": "00:00:00"
+        },
+        "locator_2": {
+            "title": "BUILDUP",
+            "index": "00:40:00"
+        },
+        "locator_3": {
+            "title": "VERSE1",
+            "index": "01:20:00"
+        },
+        "locator_4": {
+            "title": "CHORUS1",
+            "index": "02:00:00"
+        },
+        "locator_5": {
+            "title": "BREAK",
+            "index": "02:40:00"
+        },
+        "locator_6": {
+            "title": "VERSE2",
+            "index": "03:20:00"
+        },
+        "locator_7": {
+            "title": "CHORUS2",
+            "index": "04:00:00"
+        },
+        "locator_8": {
+            "title": "CHORUS3",
+            "index": "04:40:00"
+        },
+        "locator_9": {
+            "title": "CHORUS3",
+            "index": "05:20:00"
+        },
+        "locator_10": {
+            "title": "BREAK2",
+            "index": "06:00:00"
+        },
+        "locator_11": {
+            "title": "BREAK2",
+            "index": "06:40:00"
+        },
+        "locator_12": {
+            "title": "VERSE3",
+            "index": "07:20:00"
+        },
+        "locator_13": {
+            "title": "CHORUS3",
+            "index": "08:00:00"
+        },
+        "locator_14": {
+            "title": "CHORUS3-2",
+            "index": "08:40:00"
+        },
+        "locator_15": {
+            "title": "CHORUS3-3",
+            "index": "09:20:00"
+        },
+        "locator_16": {
+            "title": "BUILDDOWN",
+            "index": "10:00:00"
+        },
+        "locator_17": {
+            "title": "BUILDDOWN",
+            "index": "10:40:00"
+        },
+        "locator_18": {
+            "title": "OUTRO",
+            "index": "11:20:00"
+        },
+        "locator_19": {
+            "title": "OUTRO",
+            "index": "12:00:00"
+        },
+        "locator_20": {
+            "title": "DONE",
+            "index": "12:40:00"
+        }
+    }
+}

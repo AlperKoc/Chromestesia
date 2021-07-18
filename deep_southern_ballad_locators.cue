@@ -1,0 +1,64 @@
+FILE "Deep Southern Ballad v3.als.mp3" MP3
+    TRACK 01 AUDIO
+        TITLE ""
+        INDEX 01 00:00:00
+    TRACK 02 AUDIO
+        TITLE "INTRO"
+        INDEX 01 00:00:00
+    TRACK 03 AUDIO
+        TITLE "BUILDUP"
+        INDEX 01 00:40:00
+    TRACK 04 AUDIO
+        TITLE "VERSE1"
+        INDEX 01 01:20:00
+    TRACK 05 AUDIO
+        TITLE "CHORUS1"
+        INDEX 01 02:00:00
+    TRACK 06 AUDIO
+        TITLE "BREAK"
+        INDEX 01 02:40:00
+    TRACK 07 AUDIO
+        TITLE "VERSE2"
+        INDEX 01 03:20:00
+    TRACK 08 AUDIO
+        TITLE "CHORUS2"
+        INDEX 01 04:00:00
+    TRACK 09 AUDIO
+        TITLE "CHORUS3"
+        INDEX 01 04:40:00
+    TRACK 10 AUDIO
+        TITLE "CHORUS3"
+        INDEX 01 05:20:00
+    TRACK 11 AUDIO
+        TITLE "BREAK2"
+        INDEX 01 06:00:00
+    TRACK 12 AUDIO
+        TITLE "BREAK2"
+        INDEX 01 06:40:00
+    TRACK 13 AUDIO
+        TITLE "VERSE3"
+        INDEX 01 07:20:00
+    TRACK 14 AUDIO
+        TITLE "CHORUS3"
+        INDEX 01 08:00:00
+    TRACK 15 AUDIO
+        TITLE "CHORUS3-2"
+        INDEX 01 08:40:00
+    TRACK 16 AUDIO
+        TITLE "CHORUS3-3"
+        INDEX 01 09:20:00
+    TRACK 17 AUDIO
+        TITLE "BUILDDOWN"
+        INDEX 01 10:00:00
+    TRACK 18 AUDIO
+        TITLE "BUILDDOWN"
+        INDEX 01 10:40:00
+    TRACK 19 AUDIO
+        TITLE "OUTRO"
+        INDEX 01 11:20:00
+    TRACK 20 AUDIO
+        TITLE "OUTRO"
+        INDEX 01 12:00:00
+    TRACK 21 AUDIO
+        TITLE "DONE"
+        INDEX 01 12:40:00
